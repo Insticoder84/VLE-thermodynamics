@@ -16,7 +16,8 @@ A computational thermodynamic tool developed in MATLAB that performs non-linear 
 ## 📊 Optimization & Regression Envelopes
 The engine successfully regresses the data, matching literature physical benchmarks with extreme precision.
 
-![Thermodynamic Model Fit](Screenshot%2026-06-10%221018.png)
+![Thermodynamic Model Fit](Screenshot%202026-06-10%20221018.png)
+
 
 ## 🛠️ Technology Stack
 * **Language:** MATLAB
